@@ -1,4 +1,4 @@
-Todo(t1);
+Todo(t1):
   title: Make tea
 
 Todo(t2):
@@ -7,7 +7,7 @@ Todo(t2):
 Todo(t3):
   title: Make more tea
 
-Member(m1);
+Member(m1):
   firstname: homer
   lastname: simpson
   email: homer@simpson.com
@@ -16,7 +16,7 @@ Member(m1);
     - t1
     - t2
 
-Member(m2);
+Member(m2):
   firstname: marge
   lastname: simpson
   email: marge@simpson.com
